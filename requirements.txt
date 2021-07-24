@@ -1,0 +1,6 @@
+telebot
+requests
+sqlite3
+matplotlib
+time
+datetime
